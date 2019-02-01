@@ -1,0 +1,22 @@
+
+.titlebox {
+    
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 100%;
+    min-height: 280px;
+    text-align: center;
+    vertical-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: 0 0 5px rgb(204, 39, 149);
+    margin-bottom: 20px;
+}
+
+.titlebox h1 {
+    margin-top: 90px;
+    font-size: 80px;;
+}
+
+.titlebox h2 {
+    font-size: 60px;
+}
