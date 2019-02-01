@@ -1,0 +1,62 @@
+[
+    {
+        "breed": "ironman",
+        "image": "https://cdn.pixabay.com/photo/2018/01/06/06/07/sketch-3064403_960_720.png"
+    },
+    {
+        "breed": "hulk",
+        "image": "https://cdn.pixabay.com/photo/2018/01/06/06/08/sketch-3064404_960_720.png"
+    },
+    {
+        "breed": "superman",
+        "image": "https://cdn.pixabay.com/photo/2016/07/19/23/38/superman-1529274_960_720.jpg"
+    },
+    {
+        "breed": "batman",
+        "image": "https://cdn.pixabay.com/photo/2018/02/07/12/42/batman-3137002_960_720.png"
+    },
+    {
+        "breed": "spiderman",
+        "image": "https://cdn.pixabay.com/photo/2017/07/06/18/48/spiderman-2478977_960_720.jpg"
+    },
+    {
+        "breed": "ClintBarton",
+        "image": "https://cdn.pixabay.com/photo/2018/01/06/06/08/sketch-3064405_960_720.png"
+    },
+    {
+        "breed": "xman",
+        "image": "https://cdn.pixabay.com/photo/2017/05/18/02/27/xmen-2322297_960_720.png"
+    },
+    {
+        "breed": "deadpool",
+        "image": "https://cdn.pixabay.com/photo/2017/05/15/00/22/anti-hero-2313413_960_720.png"
+    },
+    {
+        "breed": "captainamerica",
+        "image": "https://cdn.pixabay.com/photo/2018/01/06/06/05/sketch-3064401_960_720.png"
+    },
+    {
+        "breed": "thor",
+        "image": "https://cdn.pixabay.com/photo/2018/01/06/06/06/sketch-3064402_960_720.png"
+    },
+    {
+        "breed": "snoopdogg",
+        "image": "https://cdn.pixabay.com/photo/2018/01/01/09/09/man-3053774_960_720.png"
+    },
+    {
+        "breed": "drstrange",
+        "image": "https://cdn.pixabay.com/photo/2018/11/21/08/02/sherlock-3828991_960_720.png"
+    },
+    {
+        "breed": "ninja",
+        "image": "https://cdn.pixabay.com/photo/2018/08/21/05/16/ninja-3620641_960_720.png"
+    },
+    {
+        "breed": "jacksparrow",
+        "image": "https://cdn.pixabay.com/photo/2017/03/07/06/47/pirate-2123313_960_720.png"
+    },
+    {
+        "breed": "mrpenguin",
+        "image": "https://cdn.pixabay.com/photo/2012/04/01/12/24/penguin-23159_960_720.png"
+    }
+]
